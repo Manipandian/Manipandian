@@ -13,4 +13,4 @@ a passionate self-thought web developer from india.
 
 ## Find me around the web 🌎: 
 
-- Sharing updates on <a href="https://www.linkedin.com/in/manipandian97/">LinkedIn</a> 💼
+- <a href="https://www.linkedin.com/in/manipandian97/">LinkedIn</a> 💼
