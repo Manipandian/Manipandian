@@ -43,12 +43,5 @@ I'm a passionate frontend engineer with **7+ years of experience** building scal
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manipandi.mech@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://manipandian.netlify.app)
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manipandian&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manipandian&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 *"Building scalable frontends, one component at a time."*
